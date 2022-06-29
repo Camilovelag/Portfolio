@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello microverse project
+# Portfolio web version
 
-> This project is intended to practice correct git use.
+> This project is intended to setup the skeleton for portfolio web version.
 
 
 ## Built With
